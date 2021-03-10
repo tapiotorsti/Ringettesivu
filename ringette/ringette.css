@@ -1,0 +1,23 @@
+h2 {
+    padding: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.otsikot {
+    display: flex;
+}
+
+.etuteksti {
+    margin-left: 500px;
+    text-align: center;
+    float: left;
+}
+
+.seurateksti {
+    display: flex;
+    width: 400px;
+}
