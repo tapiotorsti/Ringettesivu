@@ -9,11 +9,14 @@ a {
     word-spacing: 10rem;
 }
 
+h2 :hover {
+    color: cornsilk;
+}
+
 .otsikot {
     display: flex;
     align-items: center;
     background-color: #66a3ff;
-    margin-top: 5rem;
     height: 5rem;
     justify-content: space-evenly;
 }

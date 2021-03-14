@@ -2,6 +2,10 @@ h2 {
     padding-right: 2rem;
 }
 
+h2 :hover {
+    color: cornsilk;
+}
+
 a {
     text-decoration: none;
     color: #000000;
@@ -12,9 +16,28 @@ a {
     display: flex;
     align-items: center;
     background-color: #66a3ff;
-    margin-top: 5rem;
     height: 5rem;
     justify-content: space-evenly;
+}
+
+.yhteyst {
+    width: 9rem;
+    text-align: start;
+    margin-left: 500px;
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.tj {
+    font-size: 1.2rem;
+    width: 7rem;
+    margin-left: 300px;
+}
+.assist {
+    font-size: 1.2rem;
+    width: 6.5rem;
+    margin-left: 800px;
+    margin-top: -82px;
 }
 
 .alalaita {
