@@ -22,17 +22,20 @@ h2 :hover {
 }
 
 .seura {
-    text-align: center;
+    margin-left:470px ;
+    
 }
 
-.etuteksti {
-    margin-left: 500px;
-    float: left;
+.pelaajakuva {
+    left: 30px;
 }
 
 .seurateksti {
     display: flex;
-    width: 300px;
+    width: 400px;
+    margin-left: 450px;
+    float: left;
+    margin-top: -400px;
 }
 
 .alalaita {
