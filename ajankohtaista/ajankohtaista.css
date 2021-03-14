@@ -20,6 +20,21 @@ a {
     justify-content: space-evenly;
 }
 
+.ajankohtah {
+    color: blue;
+    text-decoration: underline;
+}
+
+.ajankohtah :hover {
+    color: darkblue;
+}
+
+.halli {
+    position: absolute;
+    bottom: 200px;
+    right: 40px;
+}
+
 .alalaita {
     background-color:#66a3ff ;
     position: absolute;

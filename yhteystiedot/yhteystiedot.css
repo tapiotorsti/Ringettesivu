@@ -20,6 +20,10 @@ a {
     justify-content: space-evenly;
 }
 
+.yhteystieto {
+    margin-top: 100px;
+}
+
 .yhteyst {
     width: 9rem;
     text-align: start;
@@ -30,14 +34,14 @@ a {
 
 .tj {
     font-size: 1.2rem;
-    width: 7rem;
+    width: 9rem;
     margin-left: 300px;
 }
 .assist {
     font-size: 1.2rem;
     width: 6.5rem;
     margin-left: 800px;
-    margin-top: -82px;
+    margin-top: -60px;
 }
 
 .alalaita {

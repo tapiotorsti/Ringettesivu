@@ -20,6 +20,41 @@ a {
     justify-content: space-evenly;
 }
 
+.joukkue {
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    line-height: 1.2rem;
+}
+
+.joukkuedj {
+    width: 5rem;
+}
+
+.joukkuef {
+    width: 5.5rem;
+}
+
+.joukkuee {
+    width: 5rem;
+}
+
+.joukkued {
+    width: 5rem;
+}
+
+.joukkuec {
+    width: 5rem;
+}
+
+.joukkuecj {
+    width: 5.5rem;
+}
+
+.joukkueb {
+    width: 5.5rem;
+}
+
 .alalaita {
     background-color:#66a3ff ;
     position: absolute;
