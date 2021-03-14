@@ -26,22 +26,16 @@ a {
 
 .yhteyst {
     width: 9rem;
-    text-align: start;
-    margin-left: 500px;
+    text-align: center;
+    margin-left: 680px;
     line-height: 1.5rem;
     font-size: 1.2rem;
 }
 
-.tj {
-    font-size: 1.2rem;
-    width: 9rem;
-    margin-left: 300px;
-}
-.assist {
-    font-size: 1.2rem;
-    width: 6.5rem;
-    margin-left: 800px;
-    margin-top: -60px;
+.yhteyst2 {
+    margin-top: 100px;
+    text-align: center;
+    
 }
 
 .alalaita {

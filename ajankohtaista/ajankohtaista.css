@@ -20,9 +20,14 @@ a {
     justify-content: space-evenly;
 }
 
+h3 {
+    margin-left: 120px;
+}
+
 .ajankohtah {
     color: blue;
     text-decoration: underline;
+    margin-left: 20px;
 }
 
 .ajankohtah :hover {
